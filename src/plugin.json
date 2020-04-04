@@ -26,7 +26,7 @@
         "url": "https://github.com/mtanda/grafana-aws-cloudwatch-logs-datasource/blob/master/LICENSE"
       }
     ],
-    "version": "1.0.5",
+    "version": "1.0.5-retry",
     "updated": "2020-01-21"
   },
   "dependencies": {
